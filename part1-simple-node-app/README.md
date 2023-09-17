@@ -15,6 +15,7 @@ docker run simple-app
 docker ps
 ```
 
+
 ```
 docker images
 ```
